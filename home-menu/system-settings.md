@@ -8,7 +8,11 @@ On Version 3.0, you can now access the System Settings. This replaces some of [A
 
 ## System
 
-In the System group of options, you can enable the Loaded app which prevents or allows you to access the app that is loaded into the console. You also can turn on or off [Mobile Mode](system-settings.md#mobile-mode). You also  can check what version you're on.
+In the System group of options, you can enable the Loaded app which prevents or allows you to access the app that is loaded into the console. You also can turn on or off [Mobile Mode](system-settings.md#mobile-mode). Profiles an upcoming feature will allow you to add user profiles to your console.
+
+## Files
+
+Files gives you access to the ProFS (ProID File Systen) feature which allows you to change files and data on your system through your ProFS Capsule. You can also import and export capsules when saving data.
 
 ### Mobile Mode
 
@@ -20,5 +24,5 @@ Similar to the [ProID Exchange](proid-exchange-hitfel-5.md) Quick Icon, you can 
 
 ## Other
 
-You can Factory Reset the system which will delete all data. You can also change [Passcode Security](../passcode-security.md) settings, and deplete all [HitCoins](proid-exchange-hitfel-5.md) from your balance.
+You can Factory Reset the system which will delete all data. You can also change [Passcode Security](../passcode-security.md) settings, and deplete all [HitCoins](proid-exchange-hitfel-5.md) from your balance. You can check your System Health, view developer credits, and get help with keeping your system up-to-date.
 

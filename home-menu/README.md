@@ -5,9 +5,11 @@ description: >-
 cover: ../.gitbook/assets/Screenshot 2023-09-26 105505.png
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -17,6 +19,14 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -78,14 +88,23 @@ The loaded app is a CD-ROM simulation which allows you to import any game you wa
 
 **For more information, visit the** [**+app**](+app.md) **page.**
 
-\+app is an app store for the console. You can install apps preselected from lots. **An internet connection is required to access this app.**
++app is an app store for the console. You can install apps preselected from lots. **An internet connection is required to access this app.**
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-26 112024.png" alt=""><figcaption><p>The +app button shown in the middle of the screen</p></figcaption></figure>
 
-## OnTag App
+## OnTags
 
 **For more information, visit the** [**OnTags**](ontags.md) **page.**
 
 The OnTag app allows you to enable OnTags and see how many OnTags the world has gotten. **An internet connection is required to access this app.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-26 112256.png" alt=""><figcaption><p>The OnTag app button shown in the middle of the screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-09-26 112256.png" alt=""><figcaption><p>The OnTags app button shown in the middle of the screen</p></figcaption></figure>
+
+## System Settings
+
+**For more information, visit the** [**System Settings**](./#system-settings) **page.**
+
+The System Settings app allows you to change features throughout the console such as Internet and file management.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-10-11 at 10.02.05 AM.png" alt="" width="187"><figcaption><p>The System Settings app shown in the middle of the screen.</p></figcaption></figure>
+

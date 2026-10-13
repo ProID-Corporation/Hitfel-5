@@ -26,7 +26,8 @@ It is also recommeneded to use [TurboWarp](https://turbowarp.org/) for this.
 5. Set the "nameloaded" variable to the name of the app.
 6. Make an empty sprite and name it AppInfo.
 7. Add the following code: **"when Green Flag clicked" "add (join Name = (nameloaded var)) to LoadedRequirements" "add (join Name = (verloaded var)) to LoadedRequirements"**
-8. You're done!
+8. Use the provided "RUN APP" button in the Game Station to test your game in a Hitfel 5-like environment.
+9. You're done!
 
 ## Part 3 - Importing
 
